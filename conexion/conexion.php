@@ -1,8 +1,8 @@
 <?php
 
 	$con = 'mysql:dbname=complementarias;host=localhost';
-	$user = 'root';
-	$password = '';
+	$user = 'Urieta';
+	$password = 'enano12345';
 
 	try {
 		$pdo = new PDO($con,$user,$password);
